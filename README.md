@@ -11,11 +11,10 @@ This project was built as part of my cybersecurity learning journey to better un
 This tool allows users to:
 - **Register** with a username and password.
 - **Authenticate** existing users through a login process.
-- **Validate password strength** against basic security standards such as:
-  - Minimum length
-  - Complexity (uppercase, lowercase, digits, symbols)
+- **Validate password strength** against basic security standards such as minimum length and complexity.
+- **Audit user activity** by recording events in log files for tracking and testing purposes.
 
-User credentials are hashed using SHA-256 using the hashlib module and stored in a text file (`users.txt`) and validated at runtime.  
+User credentials are hashed with SHA-256 using the hashlib module and stored in a text file (`users.txt`) and validated at runtime.  
 The system is designed to be modular so it can be expanded with more security features (e.g., hashing algorithms, encryption, or database storage).
 
 ---
