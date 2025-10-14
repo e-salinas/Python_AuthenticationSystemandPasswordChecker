@@ -19,6 +19,19 @@ The system is designed to be modular so it can be expanded with more security fe
 
 ---
 
+## 🖼️ Screenshots
+
+Here’s a look at the Python Authentication System:
+
+![User Interface](user_interface.png)
+
+![users.txt](users.txt.png)
+
+![audit_log.txt](audit_log.txt.png)
+
+
+---
+
 ## 🧠 What I Learned
 
 Working on this project helped me:
