@@ -1,0 +1,10 @@
+2025-10-13 17:25:14 - Alex successfully logged in.
+2025-10-13 17:25:55 - System exited.
+2025-10-13 17:26:34 - Bill successfully registered.
+2025-10-13 17:26:55 - Bill successfully logged in.
+2025-10-13 17:42:46 - Juan successfully registered.
+2025-10-13 17:43:04 - Juan successfully logged in.
+2025-10-13 17:43:14 - Juan successfully logged out.
+2025-10-13 17:44:34 - Peter successfully registered.
+2025-10-13 17:44:50 - Peter successfully logged in.
+2025-10-13 17:45:03 - Peter successfully logged out.
