@@ -18,7 +18,7 @@ User credentials are hashed with SHA-256 using the hashlib module and stored in 
 The system is designed to be modular so it can be expanded with more security features (e.g., hashing algorithms, encryption, or database storage).
 
 ---
-🛠️ How I Built This Project
+## 🛠️ How I Built This Project
 
 This project is part of my hands-on learning in cybersecurity and Python development. I followed the “Mastering Cybersecurity with Python — From Basics to Advanced Defense”
  video training course to understand how to build a secure authentication system and password checker from the ground up.
