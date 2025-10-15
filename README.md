@@ -2,7 +2,7 @@
 
 A Python-based authentication system designed to handle secure user sign-up, login, and password strength verification.
 
-This project was built as part of my cybersecurity learning journey to better understand how authentication works at a foundational level while gaining skills using Python.
+I built this project as part of my cybersecurity learning journey to better understand how authentication works at a foundational level while gaining skills using Python.
 
 ---
 
